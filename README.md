@@ -1,5 +1,6 @@
 <h2>:cloud:NSMarcely</h2>
 
+<img align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1hM2dvbDZtN3M4aXN4bDdtbHg3eDZwN2c1M3RldWl1OXIxMThpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5Lta1bjuULTubmGzR/giphy.gif"  />
 
 ###
 
@@ -10,11 +11,11 @@
 
 </div>
 
+ 
 
 ###
 
 <div>
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1hM2dvbDZtN3M4aXN4bDdtbHg3eDZwN2c1M3RldWl1OXIxMThpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5Lta1bjuULTubmGzR/giphy.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -26,6 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /> 
-  
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
