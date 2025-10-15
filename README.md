@@ -1,4 +1,11 @@
 <h2>:cloud:NSMarcely</h2>
+Meu nome é Marcely, tenho 19 anos e sou estudante de Engenharia de Software na UnB (FCTE).  
+Gosto de transformar ideias em código e entender como cada parte de um sistema se conecta — do conceito à prática.  
+
+Aqui você vai encontrar meus projetos da faculdade, estudos e experimentos enquanto cresço como desenvolvedora.  
+Explorar, errar, aprender e evoluir — esse é o processo que me move.  
+
+📚“Mesmo que você tropece cem vezes, continue se levantando. É assim que se torna mais forte.”
 
 <img align="right" height="160" src="https://i.gifer.com/Pak.gif"  />
 
