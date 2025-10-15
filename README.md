@@ -1,17 +1,22 @@
 <h2>:cloud:NSMarcely</h2>
 
-<img align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1hM2dvbDZtN3M4aXN4bDdtbHg3eDZwN2c1M3RldWl1OXIxMThpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5Lta1bjuULTubmGzR/giphy.gif"  />
+<img align="right" height="160" src="https://i.gifer.com/Pak.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NSMarcely&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NSMarcely&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  /> 
+ <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NSMarcely&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />    </a>
+    </td>
+    <td>
+      <a href="https://github.com/v1ih">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NSMarcely&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  /> 
   
+  
+  </tr>
+</table>
 
-</div>
-
- 
 
 ###
 
