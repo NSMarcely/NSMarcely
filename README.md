@@ -7,7 +7,6 @@ Explorar, errar, aprender e evoluir — esse é o processo que me move.
 
 📚“Mesmo que você tropece cem vezes, continue se levantando. É assim que se torna mais forte.”
 
-<img align="right" height="160" src="https://i.gifer.com/Pak.gif"  />
 
 ###
 
@@ -27,6 +26,7 @@ Explorar, errar, aprender e evoluir — esse é o processo que me move.
 
 ###
 
+<img align="right" height="125" src="https://i.gifer.com/Pak.gif"  />
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
