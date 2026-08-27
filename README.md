@@ -1,25 +1,21 @@
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NSMarcely&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSMarcely&layout=compact&theme=radical&langs_count=5"
-    height="150"
-    alt="Most Used Languages"
-  />
-
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=NSMarcely&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  height="150"
+  alt="GitHub Stats"
+/>   <img src="https://streak-stats.demolab.com?user=NSMarcely&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NSMarcely/NSMarcely/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NSMarcely/NSMarcely/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NSMarcely/NSMarcely/output/github-snake.svg" />
 </picture>
+</div>
 
-###
+
 <h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
 <h3>💻 Linguagens</h3>
