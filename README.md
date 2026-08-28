@@ -4,7 +4,7 @@
   src="https://github-readme-stats-fast.vercel.app/api?username=NSMarcely&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
   height="150"
   alt="GitHub Stats"
-/>   <img src="https://streak-stats.demolab.com?user=NSMarcely&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+/>
 </div>
 
 <div align="center">
