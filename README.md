@@ -1,11 +1,15 @@
 <div align="center">
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Oii%2C+eu+sou+a+Marcely!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Estudante+de+Eng.+de+Software+%E2%8A%B9" alt="Typing SVG">
+</a>
+  
 <img
   src="https://github-readme-stats-fast.vercel.app/api?username=NSMarcely&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
   height="150"
   alt="GitHub Stats"
 />
 </div>
+
 
 <div align="center">
 <picture>
